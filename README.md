@@ -83,8 +83,11 @@ $con = mysqli_connect("localhost", "username", "password", "database_name");
 -   Start Apache & MySQL
 -   Visit:
 
+```{=html}
+<!-- -->
 ```
     http://localhost/Techzone/
+
 
 ---
 
