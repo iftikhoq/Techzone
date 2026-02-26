@@ -88,7 +88,6 @@ $con = mysqli_connect("localhost", "username", "password", "database_name");
 ```
     http://localhost/Techzone/
 
-------------------------------------------------------------------------
 ---
 
 ## 📸 Screenshots
