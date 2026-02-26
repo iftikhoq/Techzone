@@ -24,11 +24,11 @@ It demonstrates core web development concepts including:
 
 ## 🚀 Features
 
--   ✅ User Registration & Login\
--   ✅ Product Browsing\
--   ✅ Add to Cart / Remove from Cart\
--   ✅ Session-Based Cart System\
--   ✅ Admin Panel (Product Management)\
+-   ✅ User Registration & Login
+-   ✅ Product Browsing
+-   ✅ Add to Cart / Remove from Cart
+-   ✅ Session-Based Cart System
+-   ✅ Admin Panel (Product Management)
 -   ✅ Database-Driven Product Storage
 
 ------------------------------------------------------------------------
@@ -40,6 +40,7 @@ It demonstrates core web development concepts including:
     ├── admin/              # Admin panel files
     ├── customer/           # Customer-facing pages
     ├── pimg/               # Product images
+    ├── Screenshots/        # Website screenshots
     ├── Cart.php            # Cart management logic
     ├── connection.php      # Database connection file
     ├── explore.php         # Product listing page
@@ -88,6 +89,26 @@ $con = mysqli_connect("localhost", "username", "password", "database_name");
     http://localhost/Techzone/
 
 ------------------------------------------------------------------------
+---
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](Screenshots/Picture1.png)
+
+### Signup
+![Signup](Screenshots/Picture2.png)
+
+### Shopping Cart
+![Shopping Cart](Screenshots/Picture3.png)
+
+### Customer record
+![Customer record](Screenshots/Customer_record.png)
+
+
+------------------------------------------------------------------------
+---
+
 
 ## 🛠️ Technologies Used
 
