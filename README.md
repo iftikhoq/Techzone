@@ -84,7 +84,6 @@ $con = mysqli_connect("localhost", "username", "password", "database_name");
 -   Visit:
 
 ```{=html}
-<!-- -->
 ```
     http://localhost/Techzone/
 
